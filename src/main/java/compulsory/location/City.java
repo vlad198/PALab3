@@ -3,6 +3,9 @@ package compulsory.location;
 import java.util.ArrayList;
 import java.util.List;
 
+/**
+ * city class which contains an array of locations
+ */
 public class City {
     private List<AbstractLocation> locations;
 

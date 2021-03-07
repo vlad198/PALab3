@@ -1,5 +1,8 @@
 package compulsory.location;
 
+/**
+ * type of location : restaurant
+ */
 public class Restaurant extends AbstractLocation implements Visitable,Payable,Classifiable{
     private int rank;
     private Schedule schedule;

@@ -1,5 +1,8 @@
 package compulsory.location;
 
+/**
+ * schedule class for visitable locations
+ */
 public class Schedule {
     private final int openingHour;
     private final int openingMinute;

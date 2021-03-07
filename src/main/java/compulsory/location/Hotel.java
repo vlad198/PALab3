@@ -1,5 +1,8 @@
 package compulsory.location;
 
+/**
+ *  type of location : hotel
+ */
 public class Hotel extends AbstractLocation implements Payable,Visitable{
     private Schedule schedule;
     private int payment;

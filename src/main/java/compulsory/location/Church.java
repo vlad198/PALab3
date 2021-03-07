@@ -1,5 +1,8 @@
 package compulsory.location;
 
+/**
+ * type of location : church
+ */
 public class Church extends AbstractLocation implements Visitable{
     private int rank;
     private Schedule schedule;

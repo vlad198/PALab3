@@ -1,5 +1,8 @@
 package compulsory.location;
 
+/**
+ * type of location : museum
+ */
 public class Museum extends AbstractLocation implements Visitable,Payable{
     private int payment;
     private Schedule schedule;
