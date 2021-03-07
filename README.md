@@ -1,6 +1,6 @@
-# Advanced Programming - Lab 1
+# Advanced Programming - Lab 3
 
-This repository contains all the problems proposed for the first laboratory in Advanced Programming course
+This repository contains all the problems proposed for the third laboratory in Advanced Programming course
 solved by me.
 
 ## Essential tools
