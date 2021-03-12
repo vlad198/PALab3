@@ -96,8 +96,8 @@ And the priority of the locations is : v1, v2, v3.
 
 #### Example 5 
 
-![img.png](optional_cerinta_5_ex3_instanta.png)
-![img.png](optional_cerinta_5_ex3_rezultat.png)
+![](readme_images/optional_cerinta_5_ex3_instanta.png)
+![](readme_images/optional_cerinta_5_ex3_rezultat.png)
 
 Same instance of the city but different priorities(v1,v3,v2).
 
