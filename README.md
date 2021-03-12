@@ -57,9 +57,24 @@ Example: locations are: v1 (Hotel) v2 (Museum A) v3 (Museum B) v4 (Church A) v5 
 
 ### Optional
 
-To be continued...
+- [x] In the City class, create a method to display the locations that are visitable and are not payable, sorted by their opening hour.
+- [x] Create default methods in the interface Visitable, with the opening hour 09:30 and the closing hour 20:00.
+- [x] Create a static method getVisitingDuration,in the interface Visitable, that returns a Duration object, representing how long a location is opened during a day.
+- [x] Create the class TravelPlan. An instance of this class will contain a city and the preferences regarding the visiting order.
+- [x] Implement an efficient algorithm to determine the shortest path between two given locations, conforming to the preferences.
+
+#### Exemples
+
+![](readme_images/optional_cerinta_1_instanta.png)
+![](readme_images/optional_cerinta_1_rezultat.png)
+
+![](readme_images/optional_cerinta_3_instanta.png)
+![img.png](readme_images/optional_cerinta_3_rezultat.png)
 
 ### Bonus
 
-To be continued...
+- [ ] Suppose that the tourist has a specific number of days available to visit the city and every day he (or she) has the same number of minutes available for visiting.
+- [ ] Suppose that there is a special start location (the hotel) - the tourist must start and end a daily trip in this location.
+- [ ] Implement an algorithm that will create a plan (a trip for each day), such that the tourist visits as many locations as possible.
+- [ ] Test your algorithm using JUnit or other framework.
 
