@@ -19,7 +19,7 @@ the file you want to run.
 
 Go to the folder where the file is located. Open a new terminal here.
 
-If you want to compile the file the file Main.java you must type the command.
+If you want to compile the file Main.java you must type the command.
 
 ```bash
 javac -d . Main.java
