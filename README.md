@@ -63,13 +63,43 @@ Example: locations are: v1 (Hotel) v2 (Museum A) v3 (Museum B) v4 (Church A) v5 
 - [x] Create the class TravelPlan. An instance of this class will contain a city and the preferences regarding the visiting order.
 - [x] Implement an efficient algorithm to determine the shortest path between two given locations, conforming to the preferences.
 
-#### Exemples
+#### Example 1
 
 ![](readme_images/optional_cerinta_1_instanta.png)
 ![](readme_images/optional_cerinta_1_rezultat.png)
 
+#### Example 2
+
 ![](readme_images/optional_cerinta_3_instanta.png)
 ![img.png](readme_images/optional_cerinta_3_rezultat.png)
+
+
+#### Example 3
+
+![](readme_images/optional_cerinta_5_instanta.png)
+![img.png](readme_images/optional_cerinta_5_rezultat.png)
+
+The graph for the instance of the problem is:
+![](readme_images/optional_cerinta_5_graf.png)
+
+And the priority of the locations is : v1, v2, v3, v4, v5, v6.
+
+#### Example 4
+
+![](readme_images/optional_cerinta_5_ex2_instanta.png)
+![](readme_images/optional_cerinta_5_ex2_rezultat.png)
+
+The graph for the instance of the problem is:
+![](readme_images/optional_cerinta_5_ex2_graf.png)
+
+And the priority of the locations is : v1, v2, v3.
+
+#### Example 5 
+
+![img.png](optional_cerinta_5_ex3_instanta.png)
+![img.png](optional_cerinta_5_ex3_rezultat.png)
+
+Same instance of the city but different priorities(v1,v3,v2).
 
 ### Bonus
 
